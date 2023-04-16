@@ -153,9 +153,10 @@
 <img src="banner.png" align = "center"/>
 </div>
 
-<h3 align="center">
-<img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
-</h3>
+![Snake animation](https://github.com/AnubhavRaj980/AnubhavRaj980/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnubhavRaj980&show_icons=true&locale=en&layout=compact" alt="AnubhavRaj980" /></p>
 
 ### <p align="center">🎡 Welcome To the World of Coding! </p>
 

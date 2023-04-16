@@ -152,6 +152,7 @@
 <div align="center">
 <img src="banner.png" align = "center"/>
 </div>
+<br>
 
 ![Snake animation](https://github.com/AnubhavRaj980/AnubhavRaj980/blob/output/github-contribution-grid-snake.svg)
   
